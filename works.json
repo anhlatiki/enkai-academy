@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Hoàng hôn trên biển",
+    "type": "image",
+    "src": "assets/images/sample-1.jpg",
+    "description": "Khoảnh khắc hoàng hôn vàng óng trên mặt biển. Ánh sáng nhẹ nhàng phản chiếu tạo nên bức tranh thiên nhiên tuyệt đẹp.",
+    "date": "2025-06-12"
+  },
+  {
+    "id": 2,
+    "title": "Con đường lá vàng",
+    "type": "image",
+    "src": "assets/images/sample-2.jpg",
+    "description": "Mùa thu về, lá vàng rơi đầy trên con đường quen thuộc. Một khung cảnh gợi nhớ và bình yên.",
+    "date": "2025-10-03"
+  },
+  {
+    "id": 3,
+    "title": "Thành phố về đêm",
+    "type": "image",
+    "src": "assets/images/sample-3.jpg",
+    "description": "Ánh đèn thành phố lung linh trong đêm. Nhịp sống đô thị được ghi lại qua ống kính.",
+    "date": "2025-12-20"
+  },
+  {
+    "id": 4,
+    "title": "Video kỷ niệm",
+    "type": "video",
+    "src": "assets/videos/sample-video.mp4",
+    "description": "Đoạn video ngắn ghi lại khoảnh khắc đáng nhớ. Bạn có thể thay bằng video thật của mình.",
+    "date": "2026-01-15"
+  }
+]
